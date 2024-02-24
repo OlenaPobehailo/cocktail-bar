@@ -10,7 +10,7 @@ Users can search for cocktails  and view detailed recipes along with images.
 * Responsive design for seamless usage on different devices.
 
 ## Technologies Used
-JavaScript
-TheCocktailDB API
-HTML
-CSS
+* JavaScript  
+* TheCocktailDB API  
+* HTML  
+* CSS  
